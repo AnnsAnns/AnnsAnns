@@ -1,22 +1,6 @@
-![](https://media.tenor.com/images/8c2a13975b046a9f57744eeefa2988a8/tenor.gif)
-
-<img src="https://media.tenor.com/images/11c464d1a1023e1bc5ebb30e134a60f7/tenor.gif" width="500" height="70" />
-
-<a align=left>
-  <img src="https://media.tenor.com/images/c61b1cc1e405bd86f700aa83d632424c/tenor.gif" width="200" height="200" />
-</a>
-
-<!--
-**tumGER/tumGER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://66.media.tumblr.com/a98121a269716795ce3e76ea05986cb1/tumblr_pf2d2ikr321vjpqr1o2_500.gif" height="35%" width="35%">
+  <br><br>
+  Read blog posts I write on my <b><a href="https://tomger.eu">Blog</a></b>
+  and see what I retweet on <b><a href="https://twitter.com/_tomGER">Twitter</a></b>
+</p>
