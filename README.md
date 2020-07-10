@@ -8,7 +8,7 @@
 ---
 
 Projects I contributed to:
- - https://github.com/AtlasNX/Kosmos, Nintendo CFW package with over one million downloads. Archived.
+ - https://github.com/AtlasNX/Kosmos, Nintendo Switch Custom Firmware Package for the Hekate Bootloader. Archived.
  - https://github.com/tumGER/BETCH, Nintendo Switch error code parser and WebAPI+Bot.
  - https://github.com/tumGER/reddit-moderator-helpers, a lot of reddit bots created for Subreddits such as /r/SubredditOfTheDay, /r/Bossfight, /r/Game and /r/DeepFriedMemes.
  - https://github.com/lordfriky/web-cfw-loader, a web payload launcher using WEBUSB. Now maintained by @lordfriky.
