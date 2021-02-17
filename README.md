@@ -11,6 +11,7 @@ Projects I contributed to:
  - https://github.com/AtlasNX/Kosmos, Nintendo Switch Custom Firmware Package for the Hekate Bootloader. Archived.
  - https://github.com/tumGER/BETCH, Nintendo Switch error code parser and WebAPI+Bot.
  - https://github.com/tumGER/chip_8_rs, a CHIP-8 Emulator written in Rust for performance.
+ - https://github.com/tumGER/LonganNano-RS-Template, a template repository to start programming with Rust on the Sipeed Longan Nano Microcontroller.
  - https://github.com/tumGER/RE_CTFs_Challenges, a repository full of CTF challenge solutions. Mostly Ghidra workspaces and Python.
  - https://github.com/tumGER/reddit-moderator-helpers, a lot of reddit bots created for Subreddits such as /r/SubredditOfTheDay, /r/Bossfight, /r/Game and /r/DeepFriedMemes.
  - https://github.com/lordfriky/web-cfw-loader, a web payload launcher using WEBUSB. Now maintained by @lordfriky.
