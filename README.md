@@ -19,6 +19,7 @@ Projects I contributed to:
  - https://github.com/WerWolv/Hekate-Toolbox, a Toolbox for Nintendo Switch Homebrew.
  - https://github.com/noahc3/PegaScape, a public frontend for the PegaSwitch exploit toolkit. Allowing users to easily access Homebrew on their Nintendo Switch.
  - https://github.com/tumGER/CHIP-8, a CHIP8 emulator written in Golang.
+ - https://github.com/TeamLibra/libra-cleaner, a minor system module for the Nintendo Switch written in pure Rust
  - https://github.com/tumGER/Wave-em-Up, Retro-Shooter made for the Github "Game Off" Game Jam 2019.
  - https://github.com/tumGER/Random-Stuff, miscellaneous scripts/small projects.
  - and many others ...
