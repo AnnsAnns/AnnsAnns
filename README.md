@@ -9,6 +9,7 @@
 
 Projects I contributed to:
  - https://github.com/AtlasNX/Kosmos, Nintendo Switch Custom Firmware Package for the Hekate Bootloader. Archived.
+ - https://github.com/tumGER/tom_party, jackbox-like game with a server written in Rust + Redis and game in Godot with GDScript.
  - https://github.com/tumGER/BETCH, Nintendo Switch error code parser and WebAPI+Bot.
  - https://github.com/tumGER/chip_8_rs, a CHIP-8 Emulator written in Rust for performance.
  - https://github.com/tumGER/LonganNano-RS-Template, a template repository to start programming with Rust on the Sipeed Longan Nano Microcontroller.
