@@ -8,10 +8,12 @@
 ---
 
 Projects I contributed to:
- - https://github.com/AtlasNX/Kosmos, Nintendo Switch Custom Firmware Package for the Hekate Bootloader. Archived.
+ - https://github.com/AtlasNX/Kosmos, Nintendo Switch Custom Firmware Ecosystem for the Hekate Bootloader. Archived.
+ - https://github.com/tumGER/Farmulty, RT Farming Game with advanced features. Written using Godot.
  - https://github.com/tumGER/tom_party, jackbox-like game with a server written in Rust + Redis and game in Godot with GDScript.
  - https://github.com/tumGER/BETCH, Nintendo Switch error code parser and WebAPI+Bot.
  - https://github.com/tumGER/chip_8_rs, a CHIP-8 Emulator written in Rust for performance.
+ - https://github.com/tumGER/rs_kernel, x86_64 Kernel written in Rust
  - https://github.com/tumGER/LonganNano-RS-Template, a template repository to start programming with Rust on the Sipeed Longan Nano Microcontroller.
  - https://github.com/tumGER/RE_CTFs_Challenges, a repository full of CTF challenge solutions. Mostly Ghidra workspaces and Python.
  - https://github.com/tumGER/reddit-moderator-helpers, a lot of reddit bots created for Subreddits such as /r/SubredditOfTheDay, /r/Bossfight, /r/Game and /r/DeepFriedMemes.
