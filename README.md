@@ -12,6 +12,7 @@ Projects I contributed to:
  - https://github.com/tumGER/Farmulty, RT Farming Game with advanced features. Written using Godot.
  - https://github.com/tumGER/tom_party, jackbox-like game with a server written in Rust + Redis and game in Godot with GDScript.
  - https://github.com/tumGER/BETCH, Nintendo Switch error code parser and WebAPI+Bot.
+ - https://github.com/tumGER/SubredditOfTheDay-Schedule-Bot, The bot that runs and maintains the system behind the over 1.1 million users following SubredditOfTheDay and TinySubredditOfTheDay
  - https://github.com/tumGER/chip_8_rs, a CHIP-8 Emulator written in Rust for performance.
  - https://github.com/tumGER/rs_kernel, x86_64 Kernel written in Rust
  - https://github.com/tumGER/LonganNano-RS-Template, a template repository to start programming with Rust on the Sipeed Longan Nano Microcontroller.
