@@ -7,4 +7,6 @@
   </b> or <b><a href="https://annsann.eu/projects/">Projects</a> ❤️‍🔥
   </b> or <b><a href="https://annsann.eu/friends/">Friends</a> 🤝
   </b>
+  <br>
+  🏔️Also, follow me <b><a href="https://codeberg.org/AnnsAnn">Codeberg</a></b> instead.🏔️
 </p>
