@@ -2,11 +2,9 @@
   <a href="https://annsann.eu/">
     <img src="https://github.com/user-attachments/assets/27c6953c-88dc-43e5-8380-e79e1e8b9d97">
   </a>
-  <br><br>
-  Checkout my <b><a href="https://annsann.eu">Blog</a> 🐸
-  </b> or <b><a href="https://annsann.eu/projects/">Projects</a> ❤️‍🔥
-  </b> or <b><a href="https://annsann.eu/friends/">Friends</a> 🤝
+  <br><br> <b><a href="https://annsann.eu">Blog</a> 🐸
+  </b> || <b><a href="https://annsann.eu/projects/">Projects</a> ❤️‍🔥
+  </b> || <b><a href="https://codeberg.org/AnnsAnn">Codeberg</a> 🏔️
+  </b> || <b><a href="https://annsann.eu/friends/">Friends</a> 🤝
   </b>
-  <br>
-  🏔️Also, follow me <b><a href="https://codeberg.org/AnnsAnn">Codeberg</a></b> instead.🏔️
 </p>
