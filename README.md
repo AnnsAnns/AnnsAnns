@@ -4,7 +4,6 @@
   </a>
   <br><br> <b><a href="https://annsann.eu">Blog</a> 🐸
   </b> || <b><a href="https://annsann.eu/projects/">Projects</a> ❤️‍🔥
-  </b> || <b><a href="https://codeberg.org/AnnsAnn">Codeberg</a> 🏔️
   </b> || <b><a href="https://annsann.eu/friends/">Friends</a> 🤝
   </b>
 </p>
